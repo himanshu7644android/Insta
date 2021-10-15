@@ -2,4 +2,6 @@
     <string name="app_name">Insta</string>
     <string name="app_id">9o3VJ9OEEIUquWZDppGAxjiWQTuQ76b7EdOnacn4</string>
     <string name="client_key">hyzIKv9MFESfp56ZcyqXcR9TRXSHisGWvXqzKljA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
