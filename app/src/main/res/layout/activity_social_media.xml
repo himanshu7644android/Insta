@@ -15,11 +15,12 @@
             android:id="@+id/mytoolbar"
             layout="@layout/my_toolbar"/>
 
-        <TableLayout
+        <com.google.android.material.tabs.TabLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/tabLayout"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
 
 
         <androidx.viewpager.widget.ViewPager
@@ -27,6 +28,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/viewPager"
             />
+
 
 
 

@@ -12,7 +12,9 @@
         android:theme="@style/Theme.Insta">
         <activity
             android:name=".SocialMediaActivity"
-            android:exported="true" />
+            android:exported="true"
+            android:theme="@style/Theme.Insta.NoActionBar"
+            />
         <activity
             android:name=".LoginActivity"
             android:exported="true" />
